@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+}
+div{
+	width: 600px;
+	height: 100px;
+	background-color: #00A8EC;
+	color: white;
+	top: 0px;
+	left: -150px;
+	margin-right: 50px;
+	text-align: center;
+	display: block;
+	
+	transform: rotate(-50deg);
+	position: absolute;
+	
+
+}
+h1{
+	
+	margin:8px;
+	margin-right: 150px;
+	padding:20px;
+	border-top:  1px solid white;
+	border-bottom:  1px solid white;
+	text-shadow: 2px 2px 2px #7D7D7D;
+}
+
